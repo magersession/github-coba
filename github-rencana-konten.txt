@@ -1,0 +1,5 @@
+Github Rencana Konten
+- Video mengenai CI4
+  * Peramalan Single Exponential Smoothing
+  * Belum tahu
+- Video mengenai tutorial pembuatan project formasi
