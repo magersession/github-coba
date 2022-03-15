@@ -3,4 +3,4 @@ Github Coba
 - Project Formasi, Daftar Pemain beserta Statistiknya
 - AOV Quotes*
 - Membuat website fortofolio project
-- Mencari klien
+- Membuat konten
